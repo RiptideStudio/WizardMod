@@ -1,0 +1,2 @@
+# WizardMod
+Magic overhaul!
